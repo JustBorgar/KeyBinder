@@ -3,57 +3,6 @@
   "tree": {
     "$className": "DataModel",
     "Workspace": {
-      "Baseplate": {
-        "$className": "Part",
-        "Texture": {
-          "$className": "Texture",
-          "$properties": {
-            "Color3": [
-              0,
-              0,
-              0
-            ],
-            "StudsPerTileU": 8,
-            "Transparency": 0.8,
-            "Face": "Top",
-            "Texture": "rbxassetid://6372755229",
-            "StudsPerTileV": 8
-          }
-        },
-        "$properties": {
-          "Size": [
-            2048,
-            16,
-            2048
-          ],
-          "Anchored": true,
-          "Color": {
-            "Color3uint8": [
-              91,
-              91,
-              91
-            ]
-          },
-          "Locked": true,
-          "TopSurface": "Smooth",
-          "FormFactor": "Symmetric",
-          "CFrame": [
-            -447,
-            -18,
-            -523,
-            1,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            1
-          ],
-          "BottomSurface": "Smooth"
-        }
-      },
       "Code": {
         "Client": {
           "$path": "src/Client"
