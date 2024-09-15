@@ -1,0 +1,24 @@
+{
+  "name": "KeyBinder",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "Code": {
+        "Client": {
+          "$path": "src/Client"
+        },
+        "Server": {
+          "$path": "src/Server"
+        },
+        "Shared": {
+          "Goodies": {
+            "$path": "src/Shared/Goodies"
+          },
+          "Resources": {
+            "$path": "src/Shared/Resources"
+          }
+        }
+      }
+    }
+  }
+}
