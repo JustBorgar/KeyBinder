@@ -68,7 +68,7 @@ KeyBinder:BindAction("Rebind", Rebind, true, Enum.KeyCode.G, Enum.KeyCode.Button
 ## Attribution ##
 
 KeyBinder makes use of the following external resources:
-* _Signal, by sleitnick.
+* Signal, by sleitnick.
 * ContextActionUtility, by PseudoPerson (what this module is built based on).
 
 All rights reserved to their respective owners.
