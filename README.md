@@ -8,19 +8,6 @@ KeyBinder is a ContextActionService wrapper that provides automatic button posit
 PseudoPerson's ContextActionUtility (which this is based on), while being strict typed, offering higher legibility, as well
 as support for multiple functions, signals for them, and rebinding.
 
-
-### Why reinvent the wheel if it already works? ###
-
-A while ago I released a forked version of CAU bundled with [SNM](https://devforum.roblox.com/t/sip-n-munch-an-open-source-platformer/2304088)
-to add rebinding support to the game in hopes of adding a rebinding menu to the game later on (I never did), but a while later while trying
-to clean up my own messy fork I figured it'd be much easier to just do the thing from scratch, squash a bunch of bugs, and that's pretty
-much what this is.
-
-Keep in mind I made this like 6 months before uploading it to github, so there might be inconsistencies with the type checking
-and/or documentation as I just did a last minute cleanup, that and I haven't tested it a whole lot either, nonetheless I hope
-it's useful, and no offense intended to the creator of CAU, i've used their module for years and I only made this for the
-added functionality I needed, if their module works for you i'd recommend you keep using it.
-
 ## How to Use ##
 
 You use this much like you'd use the regular [ContextActionService](https://create.roblox.com/docs/reference/engine/classes/ContextActionService),
