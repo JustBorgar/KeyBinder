@@ -2,6 +2,9 @@
 
 Effortless action binding, auto-positioning, rebinds & multi-method support.
 
+> [!Note]
+> KeyBinder is no longer supported, please use [Binder](http://justborgar.github.io/Creme-Suite/utilities/binder/v0-1-0/) going forward, which is effectively the same but more up-to-date.
+
 ## Description ##
 
 KeyBinder is a ContextActionService wrapper that provides automatic button positioning much like
